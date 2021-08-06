@@ -1,6 +1,6 @@
 variable "profile" {
   description = "AWS profile"
-  default = "serverless-deployer"
+  default = "your-aws-profile"
   type        = string
 }
 
